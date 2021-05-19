@@ -15,5 +15,3 @@
     1 Thingspeak
     2 MIT App Inventor(for building an App interface)
     3 Pushover(to get alert notifications)
-   
-Group of four has done this project.
