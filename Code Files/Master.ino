@@ -59,7 +59,7 @@ void Open_door(){
     Serial.println(state);
     if(state == 'D'){
       myservo.write(-90);
-      delay(3000);
+      delay(3000);         // Opening the top of dustbin for 3 seconds, when it gets signal from bluetooth.
       myservo.write(180);
     }
   }
@@ -75,7 +75,7 @@ void Open_door(){
       }
       else{
         myservo.write(-90);
-        delay(3000);
+        delay(3000);          // Opening the top of dustbin for 3 seconds, when it detects dry waste.
         myservo.write(180);
       }
   }
