@@ -15,3 +15,6 @@
     Thingspeak(Cloud used in this project)
     MIT App Inventor(for building an App interface)
     Pushover(to get alert notifications)
+
+# Model Build
+![Final front](https://user-images.githubusercontent.com/56586584/153740851-44ec3d90-d868-4010-9efe-0e774ab270b0.jpeg)
